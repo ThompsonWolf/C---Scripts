@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/kali/Desktop/Wolf/C++-Scripts",
-      "program": "/home/kali/Desktop/Wolf/C++-Scripts/build/Debug/outDebug",
+      "cwd": "/home/kali/Desktop/Wolf/Cpp-Scripts",
+      "program": "/home/kali/Desktop/Wolf/Cpp-Scripts/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
